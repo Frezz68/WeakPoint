@@ -1,0 +1,22 @@
+{
+  "name": "weakpoint",
+  "version": "1.0.0",
+  "description": "like power point but he is weak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frezz68/WeakPoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frezz68/WeakPoint/issues"
+  },
+  "homepage": "https://github.com/Frezz68/WeakPoint#readme",
+  "devDependencies": {
+    "electron": "^23.1.1"
+  }
+}
